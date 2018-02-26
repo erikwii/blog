@@ -7,7 +7,8 @@ class Welcome extends CI_Controller {
 	{	
 		$data = array(
 			'isi' => 'home',
-			'title' => 'Erik-Syafia'
+			'title' => 'Erik-Syafia',
+			'description' => 'Website sederhana ini tak akan cukup untuk menceritakan serunya cerita kami.'
 		);
 		$this->load->view('layout/wrapper',$data);
 	}

@@ -15,7 +15,7 @@
 					<div class="minilogo"></div>
 					<div>
 						<strong><i><?php echo $cat->footnote ?></i></strong>
-						<span><?php echo $cat->tgl ?></span>
+						<span><?php echo $this->m_all->change_datetoview($cat->tgl) ?></span>
 					</div>
 					<div class="section-spacer"></div>
 					<a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="<?php echo base_url().'story/us/'.$cat->IDcathegory ?>">Lihat</a>

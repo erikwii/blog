@@ -17,8 +17,8 @@
 						</div>
 					</div>
 					
-					<div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp yuli">
-						<div class="mdl-card__media mdl-color-text--grey-50">
+					<div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp h340">
+						<div class="mdl-card__media mdl-color-text--grey-50" style="background-image: url('<?php echo base_url() ?>assets/images/syafia.jpg')">
 							<h3>Syafiawarda Putri Kirana</h3>
 						</div>
 						<div class="mdl-card__supporting-text meta mdl-color-text--grey-100 mdl-color--pink">
@@ -32,7 +32,7 @@
 						</div>
 					</div>
 		  
-					<div class="mdl-card amazing lebaran mdl-cell mdl-cell--12-col mdl-cell--4-col-phone mdl-shadow--2dp">
+					<div class="mdl-card amazing lebaran mdl-cell mdl-cell--12-col mdl-cell--4-col-phone mdl-shadow--2dp h340">
 						<div class="mdl-card__media mdl-color-text--grey-50">
 							<h3 class="quotes">It's our first trip…</h3>
 						</div>
@@ -50,7 +50,7 @@
 						</div>
 					</div>
 		  
-					<div class="mdl-card on-the-road-again mdl-cell mdl-cell--8-col mdl-shadow--2dp">
+					<div class="mdl-card on-the-road-again mdl-cell mdl-cell--7-col mdl-shadow--2dp h280">
 						<div class="mdl-card__media mdl-color-text--grey-50">
 							<h3>On the road</h3>
 						</div>
@@ -66,16 +66,15 @@
 						</div>
 					</div>
 		  
-					<div class="mdl-card contact mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-shadow--2dp">
+					<div class="mdl-card contact mdl-cell mdl-cell--5-col mdl-cell--4-col-tablet mdl-shadow--2dp">
 						<div class="mdl-card__media mdl-color-text--grey-50">
 							<h3><a href="contact.html">Contact</a></h3>
 						</div>
+						<div class="mdl-color-text--grey-600 mdl-card__supporting-text">
+							We happy if you want to know about us
+						</div>
 						<div class="mdl-card__supporting-text meta mdl-color-text--grey-600">
 							<div class="minilogo"></div>
-							<div>
-								<strong>Contact us</strong>
-								<span>We happy if you want to know about us</span>
-							</div>
 							<div class="section-spacer"></div>
 							<a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="contact.html">Lihat</a>
 						</div>
